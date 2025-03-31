@@ -249,7 +249,3 @@ The output will be like this:
 ## License
 
 This library is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-```
-
-```
